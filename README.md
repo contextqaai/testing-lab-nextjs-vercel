@@ -1,3 +1,11 @@
+# ContextQA Testing Lab — Next.js · Vercel dashboard
+
+[Start the exercises](lab/README.md) · [Scenario checklist](lab/scenarios.json) · [Stack/platform catalog](https://github.com/contextqaai/testing-lab)
+
+Source available; hosted sessions and ContextQA execution results are not verified. Original project: [vercel/next-learn](https://github.com/vercel/next-learn). Upstream attribution/license remain in this repository. No upstream endorsement is implied.
+
+## Upstream project documentation
+
 # Learn Next.js
 
 This repository contains starter templates and final code for [Learn Next.js](https://nextjs.org/learn) courses:

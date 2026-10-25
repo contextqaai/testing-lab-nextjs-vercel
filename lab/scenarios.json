@@ -1,0 +1,47 @@
+{
+  "title": "Next.js \u00b7 Vercel dashboard",
+  "upstream": "https://github.com/vercel/next-learn",
+  "upstream_commit": "bb2558441a6673ab76c89914c25018bffa27a2ba",
+  "tags": [
+    "Next.js",
+    "React",
+    "Vercel",
+    "PostgreSQL",
+    "modern web"
+  ],
+  "environment": "platform",
+  "hosted_url": null,
+  "contextqa_run_verified": false,
+  "scenarios": [
+    {
+      "id": "nextjs-vercel-01",
+      "title": "Sign in",
+      "assertion": "The configured synthetic user reaches the dashboard.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "nextjs-vercel-02",
+      "title": "Create invoice",
+      "assertion": "A new fixture invoice records the intended customer, amount and status.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "nextjs-vercel-03",
+      "title": "Search",
+      "assertion": "The new invoice appears under its matching query.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "nextjs-vercel-04",
+      "title": "Edit invoice",
+      "assertion": "The selected invoice update is visible after reload.",
+      "status": "exercise-not-executed"
+    },
+    {
+      "id": "nextjs-vercel-05",
+      "title": "Preview regression",
+      "assertion": "The same assertion detects a disclosed regression on the explicitly selected preview deployment.",
+      "status": "exercise-not-executed"
+    }
+  ]
+}
